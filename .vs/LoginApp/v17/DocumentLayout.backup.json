@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|c:\\users\\baver\\onedrive\\masa\u00FCst\u00FC\\github\\loginapp\\loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|c:\\users\\baver\\onedrive\\masa\u00FCst\u00FC\\github\\loginapp\\loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|c:\\users\\baver\\onedrive\\masa\u00FCst\u00FC\\github\\loginapp\\loginapp\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|c:\\users\\baver\\onedrive\\masa\u00FCst\u00FC\\github\\loginapp\\loginapp\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F8B387-4F39-4B7A-BC65-3402D4DF0044}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:28:35.494Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\Form1.cs",
+              "RelativeToolTip": "LoginApp\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:37:03.044Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmKayitOl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\FrmKayitOl.cs",
+              "RelativeDocumentMoniker": "LoginApp\\FrmKayitOl.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\FrmKayitOl.cs [Design]",
+              "RelativeToolTip": "LoginApp\\FrmKayitOl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:33:04.909Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmKayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\FrmKayitOl.cs",
+              "RelativeDocumentMoniker": "LoginApp\\FrmKayitOl.cs",
+              "ToolTip": "C:\\Users\\baver\\OneDrive\\Masa\u00FCst\u00FC\\github\\LoginApp\\LoginApp\\FrmKayitOl.cs",
+              "RelativeToolTip": "LoginApp\\FrmKayitOl.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:37:07.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.FrmKayitOl.resources
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\baver\OneDrive\Masaüstü\github\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
