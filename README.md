@@ -51,24 +51,24 @@ Sifre nvarchar(64) not null
 ---
 
 ## 👤 Geliştirici
--Adı: [bawerzdmr02]
--Yaş: 15
--Okul: Meslek Lisesi - Bilişim Teknolojileri
--Bu proje bireysel öğrenim ve gelişim amacıyla yapılmıştır.
+- Adı: [bawerzdmr02]
+- Yaş: 15
+- Okul: Meslek Lisesi - Bilişim Teknolojileri
+- Bu proje bireysel öğrenim ve gelişim amacıyla yapılmıştır.
 
 ---
 
 ## 📌 Notlar
--Şifreler düz metin olarak saklanmaz.
--SQL Injection’a karşı parametreli sorgular kullanılmıştır.
--Formlar arası veri taşıma constructor yöntemiyle yapılabilir.
--Giriş kontrolü kod tarafında yapılır, kullanıcı hataları mesajlarla bildirilir.
--Visual Studio ile açıp çalıştırmak için SQL bağlantı cümlesini güncellemen yeterlidir.
+- Şifreler düz metin olarak saklanmaz.
+- SQL Injection’a karşı parametreli sorgular kullanılmıştır.
+- Formlar arası veri taşıma constructor yöntemiyle yapılabilir.
+- Giriş kontrolü kod tarafında yapılır, kullanıcı hataları mesajlarla bildirilir.
+- Visual Studio ile açıp çalıştırmak için SQL bağlantı cümlesini güncellemen yeterlidir.
 
 ---
 
 ## ▶️ Çalıştırmak İçin
-1.Visual Studio ile projeyi aç.
-2.SQL Server’da “Users” tablosunu oluştur.
-3.Kod içinde SqlConnection cümlesini kendi SQL bilgilerine göre ayarla.
-4.Projeyi başlat (Start).
+1. Visual Studio ile projeyi aç.
+2. SQL Server’da “Users” tablosunu oluştur.
+3. Kod içinde SqlConnection cümlesini kendi SQL bilgilerine göre ayarla.
+4. Projeyi başlat (Start).
