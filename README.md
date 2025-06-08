@@ -50,6 +50,13 @@ Sifre nvarchar(64) not null
 
 ---
 
+## 🖼️ Ekran Görüntüsü
+
+![Giriş Ekranı](https://github.com/bawerzdmr02/LoginPanel/blob/main/GirisYap.png)
+![Kayıt Ekranı](https://github.com/bawerzdmr02/LoginPanel/blob/main/KayitOl.png)
+
+---
+
 ## 👤 Geliştirici
 - Adı: [bawerzdmr02]
 - Yaş: 15
@@ -72,3 +79,6 @@ Sifre nvarchar(64) not null
 2. SQL Server’da “Users” tablosunu oluştur.
 3. Kod içinde SqlConnection cümlesini kendi SQL bilgilerine göre ayarla.
 4. Projeyi başlat (Start).
+
+
+
