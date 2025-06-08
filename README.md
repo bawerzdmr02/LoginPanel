@@ -27,6 +27,7 @@ C# Windows Forms ve SQL Server kullanılarak geliştirilen bu projede, kullanıc
 
 ## 📂 Veritabanı Yapısı
 
+```sql
 create database UserData;
 GO
 use UserData
@@ -37,31 +38,32 @@ TCKimlik char(11) not null,
 Sifre nvarchar(64) not null
 
 )
+```
 
 ---
 
 ## 🔐 Güvenlik ve Giriş Akışı
-• Kullanıcı şifre girdiğinde SHA256 ile hashlenir.
-• @parametre ile SQL sorgusu çalıştırılır.
-• Başarısız girişte hak düşürülür.
-• 3 kez yanlış girildiğinde: Application.Exit() ile uygulama kapanır.
+- Kullanıcı şifre girdiğinde SHA256 ile hashlenir.
+- @parametre ile SQL sorgusu çalıştırılır.
+- Başarısız girişte hak düşürülür.
+- 3 kez yanlış girildiğinde: Application.Exit() ile uygulama kapanır.
 
 ---
 
 ## 👤 Geliştirici
-•Adı: [bawerzdmr02]
-•Yaş: 15
-•Okul: Meslek Lisesi - Bilişim Teknolojileri
-•Bu proje bireysel öğrenim ve gelişim amacıyla yapılmıştır.
+-Adı: [bawerzdmr02]
+-Yaş: 15
+-Okul: Meslek Lisesi - Bilişim Teknolojileri
+-Bu proje bireysel öğrenim ve gelişim amacıyla yapılmıştır.
 
 ---
 
 ## 📌 Notlar
-•Şifreler düz metin olarak saklanmaz.
-•SQL Injection’a karşı parametreli sorgular kullanılmıştır.
-•Formlar arası veri taşıma constructor yöntemiyle yapılabilir.
-•Giriş kontrolü kod tarafında yapılır, kullanıcı hataları mesajlarla bildirilir.
-•Visual Studio ile açıp çalıştırmak için SQL bağlantı cümlesini güncellemen yeterlidir.
+-Şifreler düz metin olarak saklanmaz.
+-SQL Injection’a karşı parametreli sorgular kullanılmıştır.
+-Formlar arası veri taşıma constructor yöntemiyle yapılabilir.
+-Giriş kontrolü kod tarafında yapılır, kullanıcı hataları mesajlarla bildirilir.
+-Visual Studio ile açıp çalıştırmak için SQL bağlantı cümlesini güncellemen yeterlidir.
 
 ---
 
