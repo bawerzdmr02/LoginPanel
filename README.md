@@ -58,7 +58,7 @@ Sifre nvarchar(64) not null
 ---
 
 ## 👤 Geliştirici
-- Adı: [bawerzdmr02]
+- Adı: bawerzdmr02
 - Yaş: 15
 - Okul: Meslek Lisesi - Bilişim Teknolojileri
 - Bu proje bireysel öğrenim ve gelişim amacıyla yapılmıştır.
